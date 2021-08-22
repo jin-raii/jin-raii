@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jin-raii
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Django Framwork
+- 🌱 I’m currently learning React Framwork
 - 💞️ I’m looking to collaborate on Small Business
 - 📫 How to reach me jinrai5777@gmail.com
 
