@@ -1,4 +1,3 @@
-💫 About Me:
 <br>👋 Hi, I'm Rajesh Rai<br><br>I'm an AI enthusiast and aspiring startup founder with a strong interest in **building deep learning systems from the ground up**.<br><br>🚀 About Me<br>- 🤖 Passionate about **Artificial Intelligence & Machine Learning**<br>- 🧠 Currently learning and implementing **Large Language Models (LLMs) from scratch**<br>- 🔧 Successfully **implemented GPT-2 from scratch** to understand transformer internals deeply<br>- 🏗️ Enjoy working close to fundamentals rather than only using high-level APIs<br><br>🤝 Collaboration<br>- 💡 Open to collaborating on **AI-driven startup projects**<br>- 🚀 Interested in early-stage product development, research-oriented engineering, and experimentation<br><br>📫 Contact<br>- 📧 Email: **jinrai5777@gmail.com**<br><br>---<br><br>⭐ *Always learning. Always building.*<br>
 
 
