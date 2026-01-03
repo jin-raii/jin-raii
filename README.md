@@ -14,8 +14,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jin-raii&theme=dark&hide_border=false&layout=compact)
 
 
-🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jin-raii&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
